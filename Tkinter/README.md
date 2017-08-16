@@ -1,1 +1,1 @@
-the folder files contains only about tkinter
+The folder files contains only about tkinter
